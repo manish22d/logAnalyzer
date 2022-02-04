@@ -1,0 +1,205 @@
+INFO    2022-02-04 13:52:14,514 [main] hsqldb.db.HSQLDB7EC38D10CC.ENGINE  - checkpointClose start
+INFO    2022-02-04 13:52:14,515 [main] hsqldb.db.HSQLDB7EC38D10CC.ENGINE  - checkpointClose synched
+INFO    2022-02-04 13:52:14,644 [main] hsqldb.db.HSQLDB7EC38D10CC.ENGINE  - checkpointClose script done
+INFO    2022-02-04 13:52:14,765 [main] hsqldb.db.HSQLDB7EC38D10CC.ENGINE  - checkpointClose end
+INFO    2022-02-04 13:52:14,839 [main] com.logAnalyzer.App  - Getting all .txt files in :
+INFO    2022-02-04 13:52:14,846 [main] com.logAnalyzer.App  - file: 
+INFO    2022-02-04 13:52:15,078 [pool-1-thread-1] com.logAnalyzer.core.LogAnalyzer  - All event was loaded into memory correctly from file : 
+INFO    2022-02-04 13:52:15,088 [pool-1-thread-1] com.logAnalyzer.core.LogAnalyzer  - All Event was successfully processed from file 
+INFO    2022-02-04 13:52:15,095 [pool-1-thread-1] com.logAnalyzer.core.LogAnalyzer  - All applicable alerts was save in db from file : 
+INFO    2022-02-04 13:52:15,097 [main] com.logAnalyzer.services.DBService  - size : 
+INFO    2022-02-04 13:52:15,098 [main] com.logAnalyzer.services.DBService  - scsmbstgra | 5 | APPLICATION_LOG | 12345 | TRUE
+INFO    2022-02-04 13:52:15,098 [main] com.logAnalyzer.services.DBService  - scsmbstgrb | 6 | null | null | TRUE
+INFO    2022-02-04 13:52:15,098 [main] com.logAnalyzer.services.DBService  - scsmbstgrc | 8 | null | null | TRUE
+INFO    2022-02-04 13:52:15,103 [main] com.logAnalyzer.App  - Getting all .txt files in :
+INFO    2022-02-04 13:52:15,103 [main] com.logAnalyzer.App  - file: 
+INFO    2022-02-04 13:52:15,106 [main] com.logAnalyzer.services.DBService  - size : 
+INFO    2022-02-04 13:52:15,106 [main] com.logAnalyzer.services.DBService  - scsmbstgra | 5 | APPLICATION_LOG | 12345 | TRUE
+INFO    2022-02-04 13:52:15,106 [main] com.logAnalyzer.services.DBService  - scsmbstgrb | 6 | null | null | TRUE
+INFO    2022-02-04 13:52:15,106 [main] com.logAnalyzer.services.DBService  - scsmbstgrc | 8 | null | null | TRUE
+INFO    2022-02-04 13:52:15,112 [main] com.logAnalyzer.App  - Getting all .txt files in :
+INFO    2022-02-04 13:52:15,118 [main] com.logAnalyzer.App  - file: 
+INFO    2022-02-04 13:52:15,120 [main] com.logAnalyzer.App  - file: 
+INFO    2022-02-04 13:52:15,128 [pool-3-thread-2] com.logAnalyzer.core.LogAnalyzer  - All event was loaded into memory correctly from file : 
+INFO    2022-02-04 13:52:15,128 [pool-3-thread-2] com.logAnalyzer.core.LogAnalyzer  - All Event was successfully processed from file 
+INFO    2022-02-04 13:52:15,129 [pool-3-thread-1] com.logAnalyzer.core.LogAnalyzer  - All event was loaded into memory correctly from file : 
+INFO    2022-02-04 13:52:15,129 [pool-3-thread-2] com.logAnalyzer.core.LogAnalyzer  - All applicable alerts was save in db from file : 
+INFO    2022-02-04 13:52:15,129 [pool-3-thread-1] com.logAnalyzer.core.LogAnalyzer  - All Event was successfully processed from file 
+INFO    2022-02-04 13:52:15,129 [pool-3-thread-1] com.logAnalyzer.core.LogAnalyzer  - All applicable alerts was save in db from file : 
+INFO    2022-02-04 13:52:15,130 [main] com.logAnalyzer.services.DBService  - size : 
+INFO    2022-02-04 13:52:15,130 [main] com.logAnalyzer.services.DBService  - scsmbstgra | 5 | APPLICATION_LOG | 12345 | TRUE
+INFO    2022-02-04 13:52:15,130 [main] com.logAnalyzer.services.DBService  - scsmbstgrb | 6 | null | null | TRUE
+INFO    2022-02-04 13:52:15,130 [main] com.logAnalyzer.services.DBService  - scsmbstgrc | 8 | null | null | TRUE
+INFO    2022-02-04 13:52:15,130 [main] com.logAnalyzer.services.DBService  - scsmbstgrx | 5 | APPLICATION_LOG | 12345 | TRUE
+INFO    2022-02-04 13:52:15,130 [main] com.logAnalyzer.services.DBService  - scsmbstgry | 6 | null | null | TRUE
+INFO    2022-02-04 13:52:15,130 [main] com.logAnalyzer.services.DBService  - scsmbstgrz | 8 | null | null | TRUE
+INFO    2022-02-04 13:52:15,130 [main] com.logAnalyzer.services.DBService  - scsmbstgra | 5 | APPLICATION_LOG | 12345 | TRUE
+INFO    2022-02-04 13:52:15,130 [main] com.logAnalyzer.services.DBService  - scsmbstgrb | 6 | null | null | TRUE
+INFO    2022-02-04 13:52:15,131 [main] com.logAnalyzer.services.DBService  - scsmbstgrc | 8 | null | null | TRUE
+INFO    2022-02-04 13:53:23,068 [main] hsqldb.db.HSQLDB7EC38D10CC.ENGINE  - checkpointClose start
+INFO    2022-02-04 13:53:23,069 [main] hsqldb.db.HSQLDB7EC38D10CC.ENGINE  - checkpointClose synched
+INFO    2022-02-04 13:53:23,201 [main] hsqldb.db.HSQLDB7EC38D10CC.ENGINE  - checkpointClose script done
+INFO    2022-02-04 13:53:23,311 [main] hsqldb.db.HSQLDB7EC38D10CC.ENGINE  - checkpointClose end
+INFO    2022-02-04 13:53:23,373 [main] com.logAnalyzer.App  - Getting all .txt files in :
+INFO    2022-02-04 13:53:23,378 [main] com.logAnalyzer.App  - file: 
+INFO    2022-02-04 13:53:23,609 [pool-1-thread-1] com.logAnalyzer.core.LogAnalyzer  - All event was loaded into memory correctly from file : 
+INFO    2022-02-04 13:53:23,618 [pool-1-thread-1] com.logAnalyzer.core.LogAnalyzer  - All Event was successfully processed from file 
+INFO    2022-02-04 13:53:23,624 [pool-1-thread-1] com.logAnalyzer.core.LogAnalyzer  - All applicable alerts was save in db from file : 
+INFO    2022-02-04 13:53:23,627 [main] com.logAnalyzer.services.DBService  - size : 
+INFO    2022-02-04 13:53:23,627 [main] com.logAnalyzer.services.DBService  - scsmbstgra | 5 | APPLICATION_LOG | 12345 | TRUE
+INFO    2022-02-04 13:53:23,627 [main] com.logAnalyzer.services.DBService  - scsmbstgrb | 6 | null | null | TRUE
+INFO    2022-02-04 13:53:23,627 [main] com.logAnalyzer.services.DBService  - scsmbstgrc | 8 | null | null | TRUE
+INFO    2022-02-04 13:53:23,630 [main] com.logAnalyzer.App  - Getting all .txt files in :
+INFO    2022-02-04 13:53:23,630 [main] com.logAnalyzer.App  - file: 
+INFO    2022-02-04 13:53:23,635 [main] com.logAnalyzer.services.DBService  - size : 
+INFO    2022-02-04 13:53:23,635 [main] com.logAnalyzer.services.DBService  - scsmbstgra | 5 | APPLICATION_LOG | 12345 | TRUE
+INFO    2022-02-04 13:53:23,635 [main] com.logAnalyzer.services.DBService  - scsmbstgrb | 6 | null | null | TRUE
+INFO    2022-02-04 13:53:23,635 [main] com.logAnalyzer.services.DBService  - scsmbstgrc | 8 | null | null | TRUE
+INFO    2022-02-04 13:53:23,642 [main] com.logAnalyzer.App  - Getting all .txt files in :
+INFO    2022-02-04 13:53:23,646 [main] com.logAnalyzer.App  - file: 
+INFO    2022-02-04 13:53:23,648 [main] com.logAnalyzer.App  - file: 
+INFO    2022-02-04 13:53:23,656 [pool-3-thread-1] com.logAnalyzer.core.LogAnalyzer  - All event was loaded into memory correctly from file : 
+INFO    2022-02-04 13:53:23,657 [pool-3-thread-1] com.logAnalyzer.core.LogAnalyzer  - All Event was successfully processed from file 
+INFO    2022-02-04 13:53:23,657 [pool-3-thread-2] com.logAnalyzer.core.LogAnalyzer  - All event was loaded into memory correctly from file : 
+INFO    2022-02-04 13:53:23,657 [pool-3-thread-1] com.logAnalyzer.core.LogAnalyzer  - All applicable alerts was save in db from file : 
+INFO    2022-02-04 13:53:23,657 [pool-3-thread-2] com.logAnalyzer.core.LogAnalyzer  - All Event was successfully processed from file 
+INFO    2022-02-04 13:53:23,658 [pool-3-thread-2] com.logAnalyzer.core.LogAnalyzer  - All applicable alerts was save in db from file : 
+INFO    2022-02-04 13:53:23,658 [main] com.logAnalyzer.services.DBService  - size : 
+INFO    2022-02-04 13:53:23,658 [main] com.logAnalyzer.services.DBService  - scsmbstgra | 5 | APPLICATION_LOG | 12345 | TRUE
+INFO    2022-02-04 13:53:23,659 [main] com.logAnalyzer.services.DBService  - scsmbstgrb | 6 | null | null | TRUE
+INFO    2022-02-04 13:53:23,659 [main] com.logAnalyzer.services.DBService  - scsmbstgrc | 8 | null | null | TRUE
+INFO    2022-02-04 13:53:23,659 [main] com.logAnalyzer.services.DBService  - scsmbstgrx | 5 | APPLICATION_LOG | 12345 | TRUE
+INFO    2022-02-04 13:53:23,659 [main] com.logAnalyzer.services.DBService  - scsmbstgry | 6 | null | null | TRUE
+INFO    2022-02-04 13:53:23,659 [main] com.logAnalyzer.services.DBService  - scsmbstgrz | 8 | null | null | TRUE
+INFO    2022-02-04 13:53:23,659 [main] com.logAnalyzer.services.DBService  - scsmbstgra | 5 | APPLICATION_LOG | 12345 | TRUE
+INFO    2022-02-04 13:53:23,659 [main] com.logAnalyzer.services.DBService  - scsmbstgrb | 6 | null | null | TRUE
+INFO    2022-02-04 13:53:23,659 [main] com.logAnalyzer.services.DBService  - scsmbstgrc | 8 | null | null | TRUE
+INFO    2022-02-04 13:57:50,179 [main] hsqldb.db.HSQLDB7EC38D10CC.ENGINE  - checkpointClose start
+INFO    2022-02-04 13:57:50,290 [main] hsqldb.db.HSQLDB7EC38D10CC.ENGINE  - checkpointClose synched
+INFO    2022-02-04 13:57:50,335 [main] hsqldb.db.HSQLDB7EC38D10CC.ENGINE  - checkpointClose script done
+INFO    2022-02-04 13:57:50,456 [main] hsqldb.db.HSQLDB7EC38D10CC.ENGINE  - checkpointClose end
+INFO    2022-02-04 13:57:50,529 [main] com.logAnalyzer.App  - Getting all .txt files in :
+INFO    2022-02-04 13:57:50,806 [pool-1-thread-1] com.logAnalyzer.core.LogAnalyzer  - All event was loaded into memory correctly from file : 
+INFO    2022-02-04 13:57:50,821 [pool-1-thread-1] com.logAnalyzer.core.LogAnalyzer  - All Event was successfully processed from file 
+INFO    2022-02-04 13:57:50,826 [pool-1-thread-1] com.logAnalyzer.core.LogAnalyzer  - All applicable alerts was save in db from file : 
+INFO    2022-02-04 13:57:50,831 [main] com.logAnalyzer.services.DBService  - size : 
+INFO    2022-02-04 13:57:50,831 [main] com.logAnalyzer.services.DBService  - scsmbstgra | 5 | APPLICATION_LOG | 12345 | TRUE
+INFO    2022-02-04 13:57:50,832 [main] com.logAnalyzer.services.DBService  - scsmbstgrb | 6 | null | null | TRUE
+INFO    2022-02-04 13:57:50,832 [main] com.logAnalyzer.services.DBService  - scsmbstgrc | 8 | null | null | TRUE
+INFO    2022-02-04 13:57:50,837 [main] com.logAnalyzer.App  - Getting all .txt files in :
+INFO    2022-02-04 13:57:50,840 [main] com.logAnalyzer.services.DBService  - size : 
+INFO    2022-02-04 13:57:50,840 [main] com.logAnalyzer.services.DBService  - scsmbstgra | 5 | APPLICATION_LOG | 12345 | TRUE
+INFO    2022-02-04 13:57:50,840 [main] com.logAnalyzer.services.DBService  - scsmbstgrb | 6 | null | null | TRUE
+INFO    2022-02-04 13:57:50,840 [main] com.logAnalyzer.services.DBService  - scsmbstgrc | 8 | null | null | TRUE
+INFO    2022-02-04 13:57:50,846 [main] com.logAnalyzer.App  - Getting all .txt files in :
+INFO    2022-02-04 13:57:50,861 [pool-3-thread-2] com.logAnalyzer.core.LogAnalyzer  - All event was loaded into memory correctly from file : 
+INFO    2022-02-04 13:57:50,861 [pool-3-thread-2] com.logAnalyzer.core.LogAnalyzer  - All Event was successfully processed from file 
+INFO    2022-02-04 13:57:50,862 [pool-3-thread-1] com.logAnalyzer.core.LogAnalyzer  - All event was loaded into memory correctly from file : 
+INFO    2022-02-04 13:57:50,862 [pool-3-thread-2] com.logAnalyzer.core.LogAnalyzer  - All applicable alerts was save in db from file : 
+INFO    2022-02-04 13:57:50,862 [pool-3-thread-1] com.logAnalyzer.core.LogAnalyzer  - All Event was successfully processed from file 
+INFO    2022-02-04 13:57:50,863 [pool-3-thread-1] com.logAnalyzer.core.LogAnalyzer  - All applicable alerts was save in db from file : 
+INFO    2022-02-04 13:57:50,863 [main] com.logAnalyzer.services.DBService  - size : 
+INFO    2022-02-04 13:57:50,863 [main] com.logAnalyzer.services.DBService  - scsmbstgra | 5 | APPLICATION_LOG | 12345 | TRUE
+INFO    2022-02-04 13:57:50,864 [main] com.logAnalyzer.services.DBService  - scsmbstgrb | 6 | null | null | TRUE
+INFO    2022-02-04 13:57:50,864 [main] com.logAnalyzer.services.DBService  - scsmbstgrc | 8 | null | null | TRUE
+INFO    2022-02-04 13:57:50,864 [main] com.logAnalyzer.services.DBService  - scsmbstgra | 5 | APPLICATION_LOG | 12345 | TRUE
+INFO    2022-02-04 13:57:50,864 [main] com.logAnalyzer.services.DBService  - scsmbstgrb | 6 | null | null | TRUE
+INFO    2022-02-04 13:57:50,864 [main] com.logAnalyzer.services.DBService  - scsmbstgrc | 8 | null | null | TRUE
+INFO    2022-02-04 13:57:50,864 [main] com.logAnalyzer.services.DBService  - scsmbstgrx | 5 | APPLICATION_LOG | 12345 | TRUE
+INFO    2022-02-04 13:57:50,865 [main] com.logAnalyzer.services.DBService  - scsmbstgry | 6 | null | null | TRUE
+INFO    2022-02-04 13:57:50,865 [main] com.logAnalyzer.services.DBService  - scsmbstgrz | 8 | null | null | TRUE
+INFO    2022-02-04 13:59:03,439 [main] hsqldb.db.HSQLDB7EC38D10CC.ENGINE  - checkpointClose start
+INFO    2022-02-04 13:59:03,439 [main] hsqldb.db.HSQLDB7EC38D10CC.ENGINE  - checkpointClose synched
+INFO    2022-02-04 13:59:03,488 [main] hsqldb.db.HSQLDB7EC38D10CC.ENGINE  - checkpointClose script done
+INFO    2022-02-04 13:59:03,598 [main] hsqldb.db.HSQLDB7EC38D10CC.ENGINE  - checkpointClose end
+INFO    2022-02-04 13:59:03,661 [main] com.logAnalyzer.App  - Getting all .txt files in :
+INFO    2022-02-04 13:59:03,681 [main] com.logAnalyzer.services.DBService  - size : 
+INFO    2022-02-04 14:04:07,744 [main] hsqldb.db.HSQLDB7EC38D10CC.ENGINE  - checkpointClose start
+INFO    2022-02-04 14:04:07,745 [main] hsqldb.db.HSQLDB7EC38D10CC.ENGINE  - checkpointClose synched
+INFO    2022-02-04 14:04:07,879 [main] hsqldb.db.HSQLDB7EC38D10CC.ENGINE  - checkpointClose script done
+INFO    2022-02-04 14:04:08,001 [main] hsqldb.db.HSQLDB7EC38D10CC.ENGINE  - checkpointClose end
+INFO    2022-02-04 14:04:08,074 [main] com.logAnalyzer.App  - Getting all .txt files in :
+INFO    2022-02-04 14:04:08,304 [pool-1-thread-1] com.logAnalyzer.core.LogAnalyzer  - All event was loaded into memory correctly from file : 
+INFO    2022-02-04 14:04:08,313 [pool-1-thread-1] com.logAnalyzer.core.LogAnalyzer  - All Event was successfully processed from file 
+INFO    2022-02-04 14:04:08,317 [pool-1-thread-1] com.logAnalyzer.core.LogAnalyzer  - All applicable alerts was save in db from file : 
+INFO    2022-02-04 14:04:08,321 [main] com.logAnalyzer.services.DBService  - size : 
+INFO    2022-02-04 14:04:08,321 [main] com.logAnalyzer.services.DBService  - scsmbstgra | 5 | APPLICATION_LOG | 12345 | TRUE
+INFO    2022-02-04 14:04:08,321 [main] com.logAnalyzer.services.DBService  - scsmbstgrb | 6 | null | null | TRUE
+INFO    2022-02-04 14:04:08,321 [main] com.logAnalyzer.services.DBService  - scsmbstgrc | 8 | null | null | TRUE
+INFO    2022-02-04 14:04:08,324 [main] com.logAnalyzer.App  - Getting all .txt files in :
+INFO    2022-02-04 14:04:08,339 [pool-2-thread-2] com.logAnalyzer.core.LogAnalyzer  - All event was loaded into memory correctly from file : 
+INFO    2022-02-04 14:04:08,340 [pool-2-thread-1] com.logAnalyzer.core.LogAnalyzer  - All event was loaded into memory correctly from file : 
+INFO    2022-02-04 14:04:08,340 [pool-2-thread-2] com.logAnalyzer.core.LogAnalyzer  - All Event was successfully processed from file 
+INFO    2022-02-04 14:04:08,340 [pool-2-thread-1] com.logAnalyzer.core.LogAnalyzer  - All Event was successfully processed from file 
+INFO    2022-02-04 14:04:08,341 [pool-2-thread-2] com.logAnalyzer.core.LogAnalyzer  - All applicable alerts was save in db from file : 
+INFO    2022-02-04 14:04:08,341 [pool-2-thread-1] com.logAnalyzer.core.LogAnalyzer  - All applicable alerts was save in db from file : 
+INFO    2022-02-04 14:04:08,342 [main] com.logAnalyzer.services.DBService  - size : 
+INFO    2022-02-04 14:04:08,342 [main] com.logAnalyzer.services.DBService  - scsmbstgra | 5 | APPLICATION_LOG | 12345 | TRUE
+INFO    2022-02-04 14:04:08,342 [main] com.logAnalyzer.services.DBService  - scsmbstgrb | 6 | null | null | TRUE
+INFO    2022-02-04 14:04:08,342 [main] com.logAnalyzer.services.DBService  - scsmbstgrc | 8 | null | null | TRUE
+INFO    2022-02-04 14:04:08,342 [main] com.logAnalyzer.services.DBService  - scsmbstgrx | 5 | APPLICATION_LOG | 12345 | TRUE
+INFO    2022-02-04 14:04:08,342 [main] com.logAnalyzer.services.DBService  - scsmbstgra | 5 | APPLICATION_LOG | 12345 | TRUE
+INFO    2022-02-04 14:04:08,342 [main] com.logAnalyzer.services.DBService  - scsmbstgry | 6 | null | null | TRUE
+INFO    2022-02-04 14:04:08,343 [main] com.logAnalyzer.services.DBService  - scsmbstgrb | 6 | null | null | TRUE
+INFO    2022-02-04 14:04:08,343 [main] com.logAnalyzer.services.DBService  - scsmbstgrz | 8 | null | null | TRUE
+INFO    2022-02-04 14:04:08,343 [main] com.logAnalyzer.services.DBService  - scsmbstgrc | 8 | null | null | TRUE
+INFO    2022-02-04 14:04:32,201 [main] hsqldb.db.HSQLDB7EC3DEE672.ENGINE  - Checkpoint start
+INFO    2022-02-04 14:04:32,202 [main] hsqldb.db.HSQLDB7EC3DEE672.ENGINE  - checkpointClose start
+INFO    2022-02-04 14:04:32,329 [main] hsqldb.db.HSQLDB7EC3DEE672.ENGINE  - checkpointClose synched
+INFO    2022-02-04 14:04:32,365 [main] hsqldb.db.HSQLDB7EC3DEE672.ENGINE  - checkpointClose script done
+INFO    2022-02-04 14:04:32,511 [main] hsqldb.db.HSQLDB7EC3DEE672.ENGINE  - checkpointClose end
+INFO    2022-02-04 14:04:32,513 [main] hsqldb.db.HSQLDB7EC3DEE672.ENGINE  - Checkpoint end - txts: 1
+INFO    2022-02-04 14:04:32,587 [main] com.logAnalyzer.App  - Getting all .txt files in :
+INFO    2022-02-04 14:04:32,812 [pool-1-thread-1] com.logAnalyzer.core.LogAnalyzer  - All event was loaded into memory correctly from file : 
+INFO    2022-02-04 14:04:32,821 [pool-1-thread-1] com.logAnalyzer.core.LogAnalyzer  - All Event was successfully processed from file 
+INFO    2022-02-04 14:04:32,824 [pool-1-thread-1] com.logAnalyzer.core.LogAnalyzer  - All applicable alerts was save in db from file : 
+INFO    2022-02-04 14:04:32,828 [main] com.logAnalyzer.services.DBService  - size : 
+INFO    2022-02-04 14:04:32,828 [main] com.logAnalyzer.services.DBService  - scsmbstgra | 5 | APPLICATION_LOG | 12345 | TRUE
+INFO    2022-02-04 14:04:32,828 [main] com.logAnalyzer.services.DBService  - scsmbstgrb | 6 | null | null | TRUE
+INFO    2022-02-04 14:04:32,828 [main] com.logAnalyzer.services.DBService  - scsmbstgrc | 8 | null | null | TRUE
+INFO    2022-02-04 14:04:32,834 [main] com.logAnalyzer.App  - Getting all .txt files in :
+INFO    2022-02-04 14:04:32,849 [pool-2-thread-1] com.logAnalyzer.core.LogAnalyzer  - All event was loaded into memory correctly from file : 
+INFO    2022-02-04 14:04:32,849 [pool-2-thread-1] com.logAnalyzer.core.LogAnalyzer  - All Event was successfully processed from file 
+INFO    2022-02-04 14:04:32,852 [pool-2-thread-1] com.logAnalyzer.core.LogAnalyzer  - All applicable alerts was save in db from file : 
+INFO    2022-02-04 14:04:32,852 [pool-2-thread-2] com.logAnalyzer.core.LogAnalyzer  - All event was loaded into memory correctly from file : 
+INFO    2022-02-04 14:04:32,853 [pool-2-thread-2] com.logAnalyzer.core.LogAnalyzer  - All Event was successfully processed from file 
+INFO    2022-02-04 14:04:32,853 [pool-2-thread-2] com.logAnalyzer.core.LogAnalyzer  - All applicable alerts was save in db from file : 
+INFO    2022-02-04 14:04:32,854 [main] com.logAnalyzer.services.DBService  - size : 
+INFO    2022-02-04 14:04:32,854 [main] com.logAnalyzer.services.DBService  - scsmbstgra | 5 | APPLICATION_LOG | 12345 | TRUE
+INFO    2022-02-04 14:04:32,854 [main] com.logAnalyzer.services.DBService  - scsmbstgrb | 6 | null | null | TRUE
+INFO    2022-02-04 14:04:32,854 [main] com.logAnalyzer.services.DBService  - scsmbstgrc | 8 | null | null | TRUE
+INFO    2022-02-04 14:04:32,854 [main] com.logAnalyzer.services.DBService  - scsmbstgrx | 5 | APPLICATION_LOG | 12345 | TRUE
+INFO    2022-02-04 14:04:32,854 [main] com.logAnalyzer.services.DBService  - scsmbstgry | 6 | null | null | TRUE
+INFO    2022-02-04 14:04:32,854 [main] com.logAnalyzer.services.DBService  - scsmbstgrz | 8 | null | null | TRUE
+INFO    2022-02-04 14:04:32,854 [main] com.logAnalyzer.services.DBService  - scsmbstgra | 5 | APPLICATION_LOG | 12345 | TRUE
+INFO    2022-02-04 14:04:32,854 [main] com.logAnalyzer.services.DBService  - scsmbstgrb | 6 | null | null | TRUE
+INFO    2022-02-04 14:04:32,855 [main] com.logAnalyzer.services.DBService  - scsmbstgrc | 8 | null | null | TRUE
+INFO    2022-02-04 14:04:43,183 [main] hsqldb.db.HSQLDB7EC3DEE672.ENGINE  - checkpointClose start
+INFO    2022-02-04 14:04:43,184 [main] hsqldb.db.HSQLDB7EC3DEE672.ENGINE  - checkpointClose synched
+INFO    2022-02-04 14:04:43,317 [main] hsqldb.db.HSQLDB7EC3DEE672.ENGINE  - checkpointClose script done
+INFO    2022-02-04 14:04:43,427 [main] hsqldb.db.HSQLDB7EC3DEE672.ENGINE  - checkpointClose end
+INFO    2022-02-04 14:04:43,635 [main] com.logAnalyzer.App  - Getting all .txt files in :
+INFO    2022-02-04 14:04:43,898 [pool-1-thread-1] com.logAnalyzer.core.LogAnalyzer  - All event was loaded into memory correctly from file : 
+INFO    2022-02-04 14:04:43,906 [pool-1-thread-1] com.logAnalyzer.core.LogAnalyzer  - All Event was successfully processed from file 
+INFO    2022-02-04 14:04:43,913 [pool-1-thread-1] com.logAnalyzer.core.LogAnalyzer  - All applicable alerts was save in db from file : 
+INFO    2022-02-04 14:04:43,917 [main] com.logAnalyzer.services.DBService  - size : 
+INFO    2022-02-04 14:04:43,917 [main] com.logAnalyzer.services.DBService  - scsmbstgra | 5 | APPLICATION_LOG | 12345 | TRUE
+INFO    2022-02-04 14:04:43,917 [main] com.logAnalyzer.services.DBService  - scsmbstgrb | 6 | null | null | TRUE
+INFO    2022-02-04 14:04:43,917 [main] com.logAnalyzer.services.DBService  - scsmbstgrc | 8 | null | null | TRUE
+INFO    2022-02-04 14:04:43,922 [main] com.logAnalyzer.App  - Getting all .txt files in :
+INFO    2022-02-04 14:04:43,941 [pool-2-thread-2] com.logAnalyzer.core.LogAnalyzer  - All event was loaded into memory correctly from file : 
+INFO    2022-02-04 14:04:43,942 [pool-2-thread-2] com.logAnalyzer.core.LogAnalyzer  - All Event was successfully processed from file 
+INFO    2022-02-04 14:04:43,944 [pool-2-thread-1] com.logAnalyzer.core.LogAnalyzer  - All event was loaded into memory correctly from file : 
+INFO    2022-02-04 14:04:43,945 [pool-2-thread-1] com.logAnalyzer.core.LogAnalyzer  - All Event was successfully processed from file 
+INFO    2022-02-04 14:04:44,017 [pool-2-thread-2] com.logAnalyzer.core.LogAnalyzer  - All applicable alerts was save in db from file : 
+INFO    2022-02-04 14:04:44,017 [pool-2-thread-1] com.logAnalyzer.core.LogAnalyzer  - All applicable alerts was save in db from file : 
+INFO    2022-02-04 14:04:44,018 [main] com.logAnalyzer.services.DBService  - size : 
+INFO    2022-02-04 14:04:44,018 [main] com.logAnalyzer.services.DBService  - scsmbstgra | 5 | APPLICATION_LOG | 12345 | TRUE
+INFO    2022-02-04 14:04:44,018 [main] com.logAnalyzer.services.DBService  - scsmbstgrb | 6 | null | null | TRUE
+INFO    2022-02-04 14:04:44,019 [main] com.logAnalyzer.services.DBService  - scsmbstgrc | 8 | null | null | TRUE
+INFO    2022-02-04 14:04:44,019 [main] com.logAnalyzer.services.DBService  - scsmbstgrx | 5 | APPLICATION_LOG | 12345 | TRUE
+INFO    2022-02-04 14:04:44,020 [main] com.logAnalyzer.services.DBService  - scsmbstgra | 5 | APPLICATION_LOG | 12345 | TRUE
+INFO    2022-02-04 14:04:44,021 [main] com.logAnalyzer.services.DBService  - scsmbstgry | 6 | null | null | TRUE
+INFO    2022-02-04 14:04:44,021 [main] com.logAnalyzer.services.DBService  - scsmbstgrb | 6 | null | null | TRUE
+INFO    2022-02-04 14:04:44,021 [main] com.logAnalyzer.services.DBService  - scsmbstgrz | 8 | null | null | TRUE
+INFO    2022-02-04 14:04:44,021 [main] com.logAnalyzer.services.DBService  - scsmbstgrc | 8 | null | null | TRUE
